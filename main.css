@@ -1,0 +1,29 @@
+.block {
+    padding: 2%;
+}
+
+.cart {
+    width: 100% !important;
+    margin: 15px 0 !important;
+}
+
+.status0 {
+    color: crimson !important;
+}
+
+.status1 {
+    color: mediumseagreen !important;
+}
+
+.my_drop {
+    padding: 15px;
+    min-width: 300px !important;
+}
+
+.alert {
+    background-color: navajowhite !important;
+    border: black solid 4px !important;
+    border-radius: 10px !important;
+    padding: 30px !important;
+    width: 300px !important;
+}
